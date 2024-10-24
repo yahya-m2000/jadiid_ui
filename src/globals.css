@@ -1,0 +1,17 @@
+/* Import custom fonts if needed */
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
+/* Define global styles, including fonts */
+body {
+  font-family: 'Roboto', sans-serif;
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* You can add more global resets and styling */
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
